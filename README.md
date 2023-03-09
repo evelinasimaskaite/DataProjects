@@ -4,6 +4,8 @@
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/LookerDashboards
   
+  https://github.com/evelinasimaskaite/DataProjects/tree/main/LookerDashboards2
+  
 #### :point_right: Product Analysis
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/ProductAnalysis
