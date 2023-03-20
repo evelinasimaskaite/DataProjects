@@ -34,6 +34,8 @@ https://github.com/evelinasimaskaite/DataProjects/blob/f1c45dde313cbbb21b4f42333
 
 ### 👉 RFM Customer Segmentation
 
+Link to Looker: https://lookerstudio.google.com/reporting/a81f6df9-67a9-46a9-aae1-319caf1521b2
+
 #### Preview:
 <img src="https://github.com/evelinasimaskaite/DataProjects/blob/main/OtherProjects/rfm%20analysis%20preview.png" width="350" height="650" />
 
