@@ -11,8 +11,11 @@
   https://github.com/evelinasimaskaite/DataProjects/tree/main/ProductAnalysis
   
 #### :point_right: Other examples
+
    Retention Cohort Analysis
+   
    Customer Lifetime Value cohorts analysis
+   
    RFM customer segmentation 
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/OtherProjects
