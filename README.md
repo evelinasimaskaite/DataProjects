@@ -2,13 +2,21 @@
 
 #### :point_right: Vizualisations using Looker studio
   
+  **Sales Overview** and **Sales Operational Dashboards** : 
+  
   https://github.com/evelinasimaskaite/DataProjects/tree/main/LookerDashboards
+  
+  **Gender Gap** Overview and **Shift Pay Differential** overview: 
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/LookerDashboards2
   
 #### :point_right: Product Analysis
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/ProductAnalysis
+  
+#### :point_right: Marketing Analysis
+  
+  https://github.com/evelinasimaskaite/DataProjects/tree/main/MarketingAnalysis
   
 #### :point_right: Other examples
 
