@@ -18,6 +18,10 @@
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/MarketingAnalysis
   
+#### :point_right: Monetization Analysis
+
+  [to be updated]
+  
 #### :point_right: Other examples
 
    Retention Cohort Analysis
