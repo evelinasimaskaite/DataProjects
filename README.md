@@ -2,11 +2,11 @@
 
 #### :point_right: Vizualisations using Looker studio
   
-  **Sales Overview** and **Sales Operational Dashboards** : 
+  ##### Sales Overview and Sales Operational Dashboards : 
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/LookerDashboards
   
-  **Gender Gap** Overview and **Shift Pay Differential** overview: 
+  ##### Gender Gap Overview and Shift Pay Differential overview: 
   
   https://github.com/evelinasimaskaite/DataProjects/tree/main/LookerDashboards2
   
