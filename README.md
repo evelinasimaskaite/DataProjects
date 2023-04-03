@@ -20,7 +20,7 @@
   
 #### :point_right: Monetization Analysis
 
-  [to be updated]
+  https://github.com/evelinasimaskaite/DataProjects/tree/main/PaymentsMonetizationAnalysis
   
 #### :point_right: Other examples
 
